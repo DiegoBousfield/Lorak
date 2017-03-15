@@ -1,2 +1,2 @@
-# lorak
+# Lorak
 CrossFit Lorak web site
